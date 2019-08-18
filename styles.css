@@ -1,0 +1,20 @@
+body {
+	width: 700px;
+	margin: auto;
+	margin-top: 20px;
+	font-family: "georgia"
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+	color: "webkit-link";
+}
